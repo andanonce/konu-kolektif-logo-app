@@ -1,8 +1,8 @@
 {
   "name": "konu kolektif",
   "short_name": "konu kolektif",
-  "start_url": "https://konukolektif.com/",
-  "scope": "https://konukolektif.com/",
+  "start_url": "https://www.konukolektif.com/",
+  "scope": "https://www.konukolektif.com/",
   "display": "standalone",
   "background_color": "#f0eee6",
   "theme_color": "#f0eee6",
